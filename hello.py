@@ -1,1 +1,1 @@
-print("DevGnan DevOps class")
+print("class")
