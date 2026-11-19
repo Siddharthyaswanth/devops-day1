@@ -1,1 +1,1 @@
-Hi, I am <siddharthyaswanth>. This is my first DevOps project.
+Hi, I am siddharthyaswanth. This is my first DevOps project.
